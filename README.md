@@ -1,4 +1,4 @@
-#Scripts
+# Scripts
 
 Easy bash scripts to automate repetitive things
 
